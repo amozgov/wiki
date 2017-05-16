@@ -3,19 +3,19 @@
 Humaniq is a simple and secure 4th generation mobile bank. We are developing a completely new banking experience by dissolving all the barriers of archaic banks such as the need to come to a branch, doing endless paperwork, dealing with hard-to-use, buggy mobile apps, and protecting data with hard-to-remember, complex passwords.
 We have created a safe, strong financial tool, specifically designed to be used by people who are undereducated or who don’t possess identification. Most of them live in emerging economies on less than two dollars a day. We believe we can change that. Learn more about Humaniq…
 
-## 2 billion people
+## Why we do what we do
 
+- **2 billion people**
 This staggering sum represents the "unbanked”; people around the world without access to bank accounts. That lack of access is especially a problem for the poor, for women, and for people in rural areas.
 
-## Blockchain & Bio ID
+- **Blockchain & Bio ID**
 
 Blockchain  + Bio ID Blockchain technologies are revolutionizing our world, but along with the adoption of digital assets come new usability challenges and a need for both identity and security options. Biometric authentication is the key.
 
-## Startup Swarm
+- **Startup Swarm**
 
 We will open source our protocol to third party developers to create new solutions for our end users. That will also create utility for our currency, the HMQ, by providing a token that has true fungible value.
 
-## Why?
 **We have created Humaniq to implement two big ideas: to open access to modern financial services for 2 billion unbanked people, and to allow vetted partners to participate in building ‘win-win’ products and services for the Humaniq community that can provide revenue and services for all the stakeholders.
 
 If this interests you, **help us make Humaniq a reality** - anyone can contribute and we need everyone at any skill level to participate.
