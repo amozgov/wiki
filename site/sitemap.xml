@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//</loc>
+     <loc>/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -12,31 +12,31 @@
     
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//getting-started/mission-and-core-values/</loc>
+     <loc>/getting-started/mission-and-core-values/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//getting-started/user-guide/</loc>
+     <loc>/getting-started/user-guide/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//getting-started/faq/</loc>
+     <loc>/getting-started/faq/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//getting-started/code-of-conduct/</loc>
+     <loc>/getting-started/code-of-conduct/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//community/how-to-grow-our-community/</loc>
+     <loc>/community/how-to-grow-our-community/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -46,65 +46,31 @@
     
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co/</loc>
+     <loc></loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//contributing/testing-and-feedback/</loc>
+     <loc>/contributing/testing-and-feedback/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//contributing/documenting/</loc>
+     <loc>/contributing/documenting/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//contributing/outreach/</loc>
+     <loc>/contributing/outreach/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//contributing/translations/</loc>
-     <lastmod>2017-05-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//community/how-to-grow-our-community/</loc>
-     <lastmod>2017-05-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//community/slack/</loc>
-     <lastmod>2017-05-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//community/newsletter/</loc>
-     <lastmod>2017-05-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//community/blog/</loc>
-     <lastmod>2017-05-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co//community/tell-a-friend/</loc>
+     <loc>/contributing/translations/</loc>
      <lastmod>2017-05-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -114,13 +80,47 @@
     
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co/</loc>
+     <loc>/community/how-to-grow-our-community/</loc>
+     <lastmod>2017-05-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/community/slack/</loc>
+     <lastmod>2017-05-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/community/newsletter/</loc>
+     <lastmod>2017-05-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/community/blog/</loc>
+     <lastmod>2017-05-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/community/tell-a-friend/</loc>
+     <lastmod>2017-05-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc></loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://amozgov.github.io/wiki.humaniq.co/</loc>
+     <loc></loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>

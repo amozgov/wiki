@@ -1,6 +1,7 @@
 site_name: Humaniq Wiki
-site_url: 
-repo_url: https://github.com/humaniq/wiki.humaniq.co/
+site_url: https://amozgov.github.io/wiki.humaniq.co/
+repo_name: amozgov/wiki.humaniq.co/
+repo_url: https://github.com/amozgov/wiki.humaniq.co/
 site_description: 'Humaniq is a simple and secure 4th generation mobile bank.'
 # google_analytics: ['UA-79146816-1', 'wiki.humaniq.co']
 edit_uri: edit/master/docs/
@@ -38,7 +39,7 @@ pages:
       - Grow our Community: 'community/how-to-grow-our-community.md'
     - For Developers:
       - Developer Introduction: 'contributing/development/introduction.md'
-      - Building Humaniq: 'contributing/development/building-Humaniq.md'
+      - Building Humaniq: 'contributing/development/building-humaniq.md'
       - Background for DApp Developers: 'guides/developers/background-for-developers.md'
-      - Starting a DApp on Humaniq with Truffle and Embark: 'guides/developers/starting-a-dapp-on-Humaniq-with-frameworks.md'
-      - Introduction to the Humaniq Chat API: 'guides/developers/introduction-to-Humaniq-chat-api.md'
+      - Starting a DApp on Humaniq with Truffle and Embark: 'guides/developers/starting-a-dapp-on-humaniq-with-frameworks.md'
+      - Introduction to the Humaniq Chat API: 'guides/developers/introduction-to-humaniq-chat-api.md'
