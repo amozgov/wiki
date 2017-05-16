@@ -10,7 +10,7 @@ a:hover, a:focus {
 }
 
 .navbar {
-  background: #4957B8;
+  background: #7099E6;
   -webkit-box-shadow: none;
   box-shadow: none;
   border: none;
@@ -21,7 +21,7 @@ a:hover, a:focus {
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
-  background: #3C489C
+  background: #1c499c
 }
 
 .navbar-default .navbar-nav>.open>a,
@@ -33,7 +33,7 @@ a:hover, a:focus {
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-  background: #333F96
+  background: #1f51ad
 }
 
 .bs-sidebar.well {
