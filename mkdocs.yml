@@ -1,0 +1,44 @@
+site_name: Humaniq Wiki
+site_url: https://wiki.humaniq.co
+repo_url: https://github.com/humaniq/wiki.humaniq.co/
+site_description: 'Humaniq is a simple and secure 4th generation mobile bank.'
+# google_analytics: ['UA-79146816-1', 'wiki.humaniq.co']
+edit_uri: edit/master/docs/
+theme: null
+theme_dir: 'humaniq_theme'
+pages:
+  - Welcome: index.md
+  - Getting Started:
+    - Mission & Core Values : 'getting-started/mission-and-core-values.md'
+    - User Guide: 'getting-started/user-guide.md'
+    - FAQ: 'getting-started/faq.md'
+    - Code of Conduct: 'getting-started/code-of-conduct.md'
+#    - Developer Introduction: 'contributing/development/introduction.md'
+    - Grow our Community: 'community/how-to-grow-our-community.md'
+  - Contributing:
+    - Developers:
+#      - Introduction: 'contributing/development/introduction.md'
+      - Building Humaniq: 'contributing/development/building-humaniq.md'
+#      - Adding DApps: 'contributing/development/adding-dapps.md'
+#    - Design Guidelines: 'contributing/design-guidelines.md'
+    - Testing & Feedback: 'contributing/testing-and-feedback.md'
+    - Documenting: 'contributing/documenting.md'
+    - Outreach: 'contributing/outreach.md'
+    - Translations: 'contributing/translations.md'
+  - Community:
+    - Grow our Community: 'community/how-to-grow-our-community.md'
+    - Slack: 'community/slack.md'
+    - Newsletter: 'community/newsletter.md'
+    - Blog: 'community/blog.md'
+    - Tell a Friend: 'community/tell-a-friend.md'
+    # - Transcripts: # Slack
+  - Guides:
+    - For Users:
+      - User Guide: 'getting-started/user-guide.md'
+      - Grow our Community: 'community/how-to-grow-our-community.md'
+    - For Developers:
+      - Developer Introduction: 'contributing/development/introduction.md'
+      - Building Humaniq: 'contributing/development/building-Humaniq.md'
+      - Background for DApp Developers: 'guides/developers/background-for-developers.md'
+      - Starting a DApp on Humaniq with Truffle and Embark: 'guides/developers/starting-a-dapp-on-Humaniq-with-frameworks.md'
+      - Introduction to the Humaniq Chat API: 'guides/developers/introduction-to-Humaniq-chat-api.md'
