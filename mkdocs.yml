@@ -1,6 +1,5 @@
 site_name: Humaniq Wiki
 site_url: https://amozgov.github.io/wiki/
-repo_name: amozgov/wiki/
 repo_url: https://github.com/amozgov/wiki/
 site_description: 'Humaniq is a simple and secure 4th generation mobile bank.'
 edit_uri: edit/master/docs/
