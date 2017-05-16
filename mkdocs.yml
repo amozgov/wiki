@@ -1,5 +1,6 @@
 site_name: Humaniq Wiki
-site_url: https://wiki.humaniq.co
+# site_url: https://wiki.humaniq.co
+site_url: https://amozgov.github.io/wiki.humaniq.co/
 repo_url: https://github.com/humaniq/wiki.humaniq.co/
 site_description: 'Humaniq is a simple and secure 4th generation mobile bank.'
 # google_analytics: ['UA-79146816-1', 'wiki.humaniq.co']
