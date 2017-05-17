@@ -1,9 +1,10 @@
-# Humaniq - a new generation mobile bank
+# Humaniq - a true mobile bank
 
 Humaniq is a simple and secure 4th generation mobile bank. We are developing a completely new banking experience by dissolving all the barriers of archaic banks such as the need to come to a branch, doing endless paperwork, dealing with hard-to-use, buggy mobile apps, and protecting data with hard-to-remember, complex passwords.
+
 We have created a safe, strong financial tool, specifically designed to be used by people who are undereducated or who don’t possess identification. Most of them live in emerging economies on less than two dollars a day. We believe we can change that. Learn more about Humaniq…
 
-## Why we do what we do
+## Why?
 
 - **2 billion people**
 This staggering sum represents the "unbanked”; people around the world without access to bank accounts. That lack of access is especially a problem for the poor, for women, and for people in rural areas.
