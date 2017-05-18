@@ -37,7 +37,7 @@ To learn more about Humaniq - please take a look under the [Contributing Section
 
 ## Does your business model include any banking services (for example P2P loans made in HMQ)?
 
-###  Or is the Humaniq business model  purely the cryptocurrency and any other fintech activities will be provided by fintech startups using the HMQ currency? So finally are the owners of HMQ currency going to be able to lend money to other owners of HMQ for an interest thru the platform or will those kind of services only be executed  by companies instead of private users?
+**Or is the Humaniq business model  purely the cryptocurrency and any other fintech activities will be provided by fintech startups using the HMQ currency? So finally are the owners of HMQ currency going to be able to lend money to other owners of HMQ for an interest thru the platform or will those kind of services only be executed  by companies instead of private users?**
 
 We plan to have almost any fintech service imaginable, including P2P and loan services. But at the beginning we will only provide infrastructure for financial services and verification of transactions. We’re sponsoring other startups who have services that will plug in, as well as working on partnerships with established services who are interested in participating.
 
@@ -51,7 +51,7 @@ Banks are not efficient, because they don’t want to service low-margin custome
 
 ## Is money supply enough for everyone?
 
-### Another point about the money supply of cryptocurrencies is that it’s too small for many countries. Bitcoin is good except for its float limitation. It encourages people to hoard and save it as a store of wealth. Per your whitepaper is the absolute float limited? Or can it increase by 500 with each new user? Hence its ultimate limit is the number of users. In section 6 you  discuss an absolute limitation. Do you think that's wise and necessary? E.g. central banks increase money supply when conditions warrant. Why does that flexibility not apply here?
+**Another point about the money supply of cryptocurrencies is that it’s too small for many countries. Bitcoin is good except for its float limitation. It encourages people to hoard and save it as a store of wealth. Per your whitepaper is the absolute float limited? Or can it increase by 500 with each new user? Hence its ultimate limit is the number of users. In section 6 you  discuss an absolute limitation. Do you think that's wise and necessary? E.g. central banks increase money supply when conditions warrant. Why does that flexibility not apply here?**
 
 After the critical mass is reached, we expect the system will develop by its own, which does not mean we stop our marketing campaigns. And of course money supply limits are aimed at increasing capitalization and interest in terms of keeping funds inside the system. If you continually print money you run the risk of devaluing the currency, which is why we’ve put a limit on the maximum number of tokens.
 

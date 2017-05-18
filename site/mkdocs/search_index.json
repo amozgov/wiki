@@ -47,8 +47,88 @@
         }, 
         {
             "location": "/getting-started/faq/", 
+            "text": "FAQ\n\n\nWhen did you start coding and how you are funded?\n\n\n//TODO\n\n\nI am new to Ethereum \n Blockchain. I would like to contribute to the project, where would you suggest I start?\n\n\nTo get up to speed with Ethereum, here are a few resources to get you started:\n\n\nEthdocs.org\n,\n\nEthereum.org\n,\n\nEthereum Stack Exchange\n, and\n\nEthereum on Youtube\n\n\nTo learn more about Humaniq - please take a look under the \nContributing Section\n.\n\n\nWhen can we expect to see the Beta?\n\n\n//TODO\n\n\nIs it going to be for Android only?\n\n\n//TODO\n\n\nIs it possible to install Humaniq \n how can I test?\n\n\n//TODO\n\n\nWhat languages do you support?\n\n\n//TODO\n\n\nWhat about all these permissions in the app?\n\n\n//TODO\n\n\nDoes your business model include any banking services (for example P2P loans made in HMQ)?\n\n\nOr is the Humaniq business model  purely the cryptocurrency and any other fintech activities will be provided by fintech startups using the HMQ currency? So finally are the owners of HMQ currency going to be able to lend money to other owners of HMQ for an interest thru the platform or will those kind of services only be executed  by companies instead of private users?\n\n\nWe plan to have almost any fintech service imaginable, including P2P and loan services. But at the beginning we will only provide infrastructure for financial services and verification of transactions. We\u2019re sponsoring other startups who have services that will plug in, as well as working on partnerships with established services who are interested in participating.\n\n\nDo you have any plans to offer custom Humaniq phones?\n\n\nWe\u2019ve received some offers, but currently we do not have plans for production of a branded smartphone.\n\n\nHow effective are banks at expanding their reach into unbanked populations?\n\n\nBanks are not efficient, because they don\u2019t want to service low-margin customers. Unbanked people can not afford normal banking services. At the same time for banks it is quite expensive to invest in infrastructure in these regions. In general the daily budget for such people is approximately 1-3 USD per day and their deposits normally do not exceed 50 USD. Also the majority of payment systems have minimum account balance thresholds  and minimum deposit sums.\n\n\nIs money supply enough for everyone?\n\n\nAnother point about the money supply of cryptocurrencies is that it\u2019s too small for many countries. Bitcoin is good except for its float limitation. It encourages people to hoard and save it as a store of wealth. Per your whitepaper is the absolute float limited? Or can it increase by 500 with each new user? Hence its ultimate limit is the number of users. In section 6 you  discuss an absolute limitation. Do you think that's wise and necessary? E.g. central banks increase money supply when conditions warrant. Why does that flexibility not apply here?\n\n\nAfter the critical mass is reached, we expect the system will develop by its own, which does not mean we stop our marketing campaigns. And of course money supply limits are aimed at increasing capitalization and interest in terms of keeping funds inside the system. If you continually print money you run the risk of devaluing the currency, which is why we\u2019ve put a limit on the maximum number of tokens.\n\n\nThe ambassadors idea is good. Are they volunteers or are the compensated?\n\n\nAmbassadors - are people that share our mission and vision. They participate as volunteers.  Some of them are working on their own start-ups that will mesh well with our network, while allowing them to operate as independent businesses.\n\n\nSecurity: can facial recognition be hacked?\n\n\nWe are technology providers and we use only innovative solutions. Modern bio-authentication technologies allow to identify user with 99.9% probability. Having said that, it would be foolish to say that something cannot be hacked.  We\u2019re taking very strong precautions, and security is part of our development model, not an afterthought.\n\n\nIn the event that some vulnerability is found, we\u2019ll do what every other fintech company does, which is to patch it and prevent it from happening again.  Also, just because something can be hacked does not mean it will.  Most of our users will have the equivalent of $50 or less in their accounts, which does not make them high-value targets for hackers.\n\n\nIt\u2019s not worth exposing yourself to investigation and discovery to steal $50, and they\u2019d need to hack each user individually, because the actual database of user verification info is stored in the Ethereum blockchain, which is considerably more difficult to hack than spoofing facial recognition software for one person.", 
+            "title": "FAQ"
+        }, 
+        {
+            "location": "/getting-started/faq/#faq", 
             "text": "", 
             "title": "FAQ"
+        }, 
+        {
+            "location": "/getting-started/faq/#when-did-you-start-coding-and-how-you-are-funded", 
+            "text": "//TODO", 
+            "title": "When did you start coding and how you are funded?"
+        }, 
+        {
+            "location": "/getting-started/faq/#i-am-new-to-ethereum-blockchain-i-would-like-to-contribute-to-the-project-where-would-you-suggest-i-start", 
+            "text": "To get up to speed with Ethereum, here are a few resources to get you started:  Ethdocs.org , Ethereum.org , Ethereum Stack Exchange , and Ethereum on Youtube  To learn more about Humaniq - please take a look under the  Contributing Section .", 
+            "title": "I am new to Ethereum &amp; Blockchain. I would like to contribute to the project, where would you suggest I start?"
+        }, 
+        {
+            "location": "/getting-started/faq/#when-can-we-expect-to-see-the-beta", 
+            "text": "//TODO", 
+            "title": "When can we expect to see the Beta?"
+        }, 
+        {
+            "location": "/getting-started/faq/#is-it-going-to-be-for-android-only", 
+            "text": "//TODO", 
+            "title": "Is it going to be for Android only?"
+        }, 
+        {
+            "location": "/getting-started/faq/#is-it-possible-to-install-humaniq-how-can-i-test", 
+            "text": "//TODO", 
+            "title": "Is it possible to install Humaniq &amp; how can I test?"
+        }, 
+        {
+            "location": "/getting-started/faq/#what-languages-do-you-support", 
+            "text": "//TODO", 
+            "title": "What languages do you support?"
+        }, 
+        {
+            "location": "/getting-started/faq/#what-about-all-these-permissions-in-the-app", 
+            "text": "//TODO", 
+            "title": "What about all these permissions in the app?"
+        }, 
+        {
+            "location": "/getting-started/faq/#does-your-business-model-include-any-banking-services-for-example-p2p-loans-made-in-hmq", 
+            "text": "", 
+            "title": "Does your business model include any banking services (for example P2P loans made in HMQ)?"
+        }, 
+        {
+            "location": "/getting-started/faq/#or-is-the-humaniq-business-model-purely-the-cryptocurrency-and-any-other-fintech-activities-will-be-provided-by-fintech-startups-using-the-hmq-currency-so-finally-are-the-owners-of-hmq-currency-going-to-be-able-to-lend-money-to-other-owners-of-hmq-for-an-interest-thru-the-platform-or-will-those-kind-of-services-only-be-executed-by-companies-instead-of-private-users", 
+            "text": "We plan to have almost any fintech service imaginable, including P2P and loan services. But at the beginning we will only provide infrastructure for financial services and verification of transactions. We\u2019re sponsoring other startups who have services that will plug in, as well as working on partnerships with established services who are interested in participating.", 
+            "title": "Or is the Humaniq business model  purely the cryptocurrency and any other fintech activities will be provided by fintech startups using the HMQ currency? So finally are the owners of HMQ currency going to be able to lend money to other owners of HMQ for an interest thru the platform or will those kind of services only be executed  by companies instead of private users?"
+        }, 
+        {
+            "location": "/getting-started/faq/#do-you-have-any-plans-to-offer-custom-humaniq-phones", 
+            "text": "We\u2019ve received some offers, but currently we do not have plans for production of a branded smartphone.", 
+            "title": "Do you have any plans to offer custom Humaniq phones?"
+        }, 
+        {
+            "location": "/getting-started/faq/#how-effective-are-banks-at-expanding-their-reach-into-unbanked-populations", 
+            "text": "Banks are not efficient, because they don\u2019t want to service low-margin customers. Unbanked people can not afford normal banking services. At the same time for banks it is quite expensive to invest in infrastructure in these regions. In general the daily budget for such people is approximately 1-3 USD per day and their deposits normally do not exceed 50 USD. Also the majority of payment systems have minimum account balance thresholds  and minimum deposit sums.", 
+            "title": "How effective are banks at expanding their reach into unbanked populations?"
+        }, 
+        {
+            "location": "/getting-started/faq/#is-money-supply-enough-for-everyone", 
+            "text": "", 
+            "title": "Is money supply enough for everyone?"
+        }, 
+        {
+            "location": "/getting-started/faq/#another-point-about-the-money-supply-of-cryptocurrencies-is-that-its-too-small-for-many-countries-bitcoin-is-good-except-for-its-float-limitation-it-encourages-people-to-hoard-and-save-it-as-a-store-of-wealth-per-your-whitepaper-is-the-absolute-float-limited-or-can-it-increase-by-500-with-each-new-user-hence-its-ultimate-limit-is-the-number-of-users-in-section-6-you-discuss-an-absolute-limitation-do-you-think-thats-wise-and-necessary-eg-central-banks-increase-money-supply-when-conditions-warrant-why-does-that-flexibility-not-apply-here", 
+            "text": "After the critical mass is reached, we expect the system will develop by its own, which does not mean we stop our marketing campaigns. And of course money supply limits are aimed at increasing capitalization and interest in terms of keeping funds inside the system. If you continually print money you run the risk of devaluing the currency, which is why we\u2019ve put a limit on the maximum number of tokens.", 
+            "title": "Another point about the money supply of cryptocurrencies is that it\u2019s too small for many countries. Bitcoin is good except for its float limitation. It encourages people to hoard and save it as a store of wealth. Per your whitepaper is the absolute float limited? Or can it increase by 500 with each new user? Hence its ultimate limit is the number of users. In section 6 you  discuss an absolute limitation. Do you think that's wise and necessary? E.g. central banks increase money supply when conditions warrant. Why does that flexibility not apply here?"
+        }, 
+        {
+            "location": "/getting-started/faq/#the-ambassadors-idea-is-good-are-they-volunteers-or-are-the-compensated", 
+            "text": "Ambassadors - are people that share our mission and vision. They participate as volunteers.  Some of them are working on their own start-ups that will mesh well with our network, while allowing them to operate as independent businesses.", 
+            "title": "The ambassadors idea is good. Are they volunteers or are the compensated?"
+        }, 
+        {
+            "location": "/getting-started/faq/#security-can-facial-recognition-be-hacked", 
+            "text": "We are technology providers and we use only innovative solutions. Modern bio-authentication technologies allow to identify user with 99.9% probability. Having said that, it would be foolish to say that something cannot be hacked.  We\u2019re taking very strong precautions, and security is part of our development model, not an afterthought.  In the event that some vulnerability is found, we\u2019ll do what every other fintech company does, which is to patch it and prevent it from happening again.  Also, just because something can be hacked does not mean it will.  Most of our users will have the equivalent of $50 or less in their accounts, which does not make them high-value targets for hackers.  It\u2019s not worth exposing yourself to investigation and discovery to steal $50, and they\u2019d need to hack each user individually, because the actual database of user verification info is stored in the Ethereum blockchain, which is considerably more difficult to hack than spoofing facial recognition software for one person.", 
+            "title": "Security: can facial recognition be hacked?"
         }, 
         {
             "location": "/getting-started/code-of-conduct/", 
